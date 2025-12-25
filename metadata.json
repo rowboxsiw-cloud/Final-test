@@ -1,0 +1,7 @@
+{
+  "name": "SwiftPay UPI",
+  "description": "A high-performance UPI-like payment application with real-time transfers, QR scanning, daily interest rewards, and AI-powered financial insights.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
